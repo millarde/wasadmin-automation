@@ -1,0 +1,1 @@
+ADMU0508I: The Application Server "server1" is STARTED

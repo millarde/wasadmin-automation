@@ -1,0 +1,5 @@
+ADMU0116I: Tool information is being logged in file
+           C:\spng\was85\profiles\AppSrv01\logs\server1\serverStatus.log
+ADMU0128I: Starting tool with the AppSrv01 profile
+ADMU0500I: Retrieving server status for server1
+ADMU0508I: The Application Server "server1" is STARTED
